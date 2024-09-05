@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="nightwatch.ecosia"
+    errors="1" failures="0" hostname="" id="" package="ecosia" skipped="1"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+    <system-err>
+       An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+ An error occurred while creating a new ChromeDriver session: [Error] spawn C:\Users\Oscar\Desktop\Portfolio\typescript-express\node_modules\chromedriver\bin\chromedriver ENOENT
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;C:\\Users\\Oscar\\Desktop\\Portfolio\\typescript-express\\node_modules\\chromedriver\\bin\\chromedriver&#39;,
+     port: undefined,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  Set webdriver.log_path in your Nightwatch config to retrieve more logs from ChromeDriver.
+    </system-err>
+  
+
+    
+    <error message=""><![CDATA[
+      
+      ]]></error>  
+
+  
+    
+    <testcase
+      name="Demo test ecosia.org" classname="nightwatch.ecosia">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

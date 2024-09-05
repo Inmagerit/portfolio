@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="5"
+            tests="3">
+
+  <testsuite name="tests.accesabilityTest"
+    errors="0" failures="5" hostname="" id="" package="accesabilityTest" skipped="0"
+    tests="3" time="36.71" timestamp="">
+  
+    <testcase name="Accessbility Test - Home Page" classname="tests.accesabilityTest" time="6.383" assertions="16">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="aXe rule: region - All page content should be contained by landmarks
+In element: h1">In element: h1</failure>
+
+    
+    </testcase>
+  
+    <testcase name="Accessbility Test - Profile Page" classname="tests.accesabilityTest" time="4.442" assertions="27">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="aXe rule: region - All page content should be contained by landmarks
+In element: h1">In element: h1</failure>
+
+      <failure message="aXe rule: region - All page content should be contained by landmarks
+In element: #pills-tab">In element: #pills-tab</failure>
+
+      <failure message="aXe rule: region - All page content should be contained by landmarks
+In element: #pills-home">In element: #pills-home</failure>
+
+    
+    </testcase>
+  
+    <testcase name="Accessbility Test - Contact Page" classname="tests.accesabilityTest" time="7.526" assertions="16">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="aXe rule: region - All page content should be contained by landmarks
+In element: h1">In element: h1</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

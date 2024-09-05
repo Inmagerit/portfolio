@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="tests.pageLoads"
+    errors="0" failures="0" hostname="" id="" package="pageLoads" skipped="0"
+    tests="3" time="26.90" timestamp="">
+  
+    <testcase name="home Loads Correctly" classname="tests.pageLoads" time="5.924" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="profile page loads" classname="tests.pageLoads" time="4.344" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="contact page Loads " classname="tests.pageLoads" time="3.180" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

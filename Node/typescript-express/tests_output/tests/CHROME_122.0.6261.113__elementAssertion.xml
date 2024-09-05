@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="tests.elementAssertion"
+    errors="0" failures="0" hostname="" id="" package="elementAssertion" skipped="0"
+    tests="3" time="50.22" timestamp="">
+  
+    <testcase name="Home Page Loads Correctly" classname="tests.elementAssertion" time="7.926" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Profile Page Loads Correctly" classname="tests.elementAssertion" time="8.584" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Contact Page Loads Correctly" classname="tests.elementAssertion" time="8.599" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="tests.LinkTest"
+    errors="0" failures="0" hostname="" id="" package="LinkTest" skipped="0"
+    tests="1" time="14.77" timestamp="">
+  
+    <testcase name="Navigate to Different Pages" classname="tests.LinkTest" time="7.382" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
