@@ -1,0 +1,45 @@
+ 
+
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  background-color: #ffffff; 
+}
+#cardBodyOne,#cardBodyTwo,#cardBodyThree{
+  border-color: grey;
+  border-width: 2em;
+  padding: 1.5em;
+}
+
+
+p, h1, h2, h3, h4, h5, h6{
+  
+  color:black;
+  padding: 1em;
+}
+.apiCard {
+    border-style: groove;
+    border-width: 2em;
+    border-color: black;}
+.cardTop{color: black;}       //card title
+.cardBottom{color: black;}    //card text
+
+.card-img-top{
+      width: 100%;
+      height: auto;  }
+
+button{
+  padding: 1em;
+}
+
+#title{
+  padding: 3.5em;size: 5em;
+  background-color: grey;
+}
+img{
+  transform: scale(1);
+  transition: transform 0.3s ease;
+  &:hover{
+    transform: scale(1.1)
+  };
+}

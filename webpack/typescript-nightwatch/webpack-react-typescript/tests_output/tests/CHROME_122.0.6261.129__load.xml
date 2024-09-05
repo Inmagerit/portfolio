@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="tests.load"
+    errors="0" failures="0" hostname="" id="" package="load" skipped="0"
+    tests="2" time="29.86" timestamp="">
+  
+    <testcase name="Test Component Interaction Page one" classname="tests.load" time="6.456" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test Component Interaction Page two" classname="tests.load" time="8.472" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

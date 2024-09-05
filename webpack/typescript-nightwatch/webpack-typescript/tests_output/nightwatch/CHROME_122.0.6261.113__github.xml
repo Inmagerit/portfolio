@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="nightwatch.github"
+    errors="0" failures="1" hostname="" id="" package="github" skipped="1"
+    tests="2" time="36.93" timestamp="">
+  
+    <testcase name="Github Title test" classname="nightwatch.github" time="8.427" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Github search for nightwatch repository" classname="nightwatch.github" time="10.04" assertions="1">  <failure message="Timed out while waiting for element &lt;.header-search-button&gt; to be visible for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not visible&#34; (5463ms)">    at Object.Github search for nightwatch repository (C:\Users\Oscar\Desktop\Portfolio\webpack-portfolio-main\Typescript\webpack-typescript actual\nightwatch\github.ts:18:14)</failure>
+
+    
+    </testcase>
+  
+
+  
+    <system-err>
+       TimeoutError
+   An error occurred while running .setValue() command on &lt;textarea[name=q]&gt;: element not interactable
+  (Session info: chrome=122.0.6261.113)
+    {&#34;error&#34;:{&#34;name&#34;:&#34;ElementNotInteractableError&#34;,&#34;remoteStacktrace&#34;:&#34;&#34;},&#34;status&#34;:-1,&#34;value&#34;:null}
+
+    Error location:
+    C:\Users\Oscar\Desktop\Portfolio\webpack-portfolio-main\Typescript\webpack-typescript actual\nightwatch\google.ts:9
+    –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     7 | 
+     8 |   &#39;Google search test&#39;: () =&gt; {
+     9 |     browser 
+     10 |       .setValue(&#39;textarea[name=q]&#39;, &#39;nightwatchjs&#39;)
+     11 |       .perform(function(this: NightwatchAPI) {
+    –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+    </system-err>
+  
+
+    
+
+  
+    
+    <testcase
+      name="Github login with fake credentials" classname="nightwatch.github">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

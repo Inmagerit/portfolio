@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["DOM", "ESNext"],
+    "jsx": "react-jsx",
+    "noEmit": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    // "allowJs": true, /* Uncomment if you need to allow javascript files to be compiled. Useful when migrating JS to TS */
+    // "checkJs": true, /* Uncomment if you want to report errors in .js files. Works in tandem with allowJs. */
+  },
+  "include": [
+    "src/**/*",
+    // Add Cypress test files or adjust the path based on your project structure
+    "cypress/**/*.ts",
+    // Add axe-core configuration files or adjust the path based on your project structure
+    "axe-core/**/*.ts"
+  ],
+  "exclude": [
+    // Exclude files that are not TypeScript, or Cypress/axe-core configuration
+    "node_modules",
+    "**/*.spec.ts", // Assuming test files are named with .spec.ts extension
+    "**/cypress/**/*.js", // Exclude compiled Cypress JS files
+    "**/axe-core/**/*.js" // Exclude compiled axe-core JS files
+  ]
+}

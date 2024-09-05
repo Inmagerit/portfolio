@@ -1,0 +1,46 @@
+
+*{text-align: center;
+  border-color: black;
+  border-width: 0.5em;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  
+  color: rgb(255, 217, 0);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.accordion-content {
+    display: none;
+  }
+
+  .active {
+    background-color: #ddd;
+  }
+
+  .carousel-inner {
+    display: flex;
+    overflow: hidden;
+  }
+
+  .carousel-item {
+    flex: 0 0 100%;
+    display: none;
+  }
+  
+.section {
+    border: 1px solid #ccc;
+    padding: 2em;
+    
+
+}
+
+
+.accordion{
+  padding: 2em;
+} 
+
+.carousel{
+  padding: 2em;
+}
+body{
+  background-color: black;
+}

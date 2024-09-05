@@ -1,0 +1,77 @@
+<head>
+        
+<link rel="stylesheet" href="main.scss">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<title>Webpack website</title>
+</head>
+<body>
+    <h1 id="title">Welcome to my website</h1>
+    <p><br><br>
+        This website was bundled using webpack.<br>
+        is styled with a .scss document<br>
+         Is a simple HTML Template, filled with bootstrap <br>
+        code for absolute responsiveness, and in the <br>
+        javascript part i built a list to be made with<br>
+        user input. For this the app stores the data in the clients memory <br>
+        it works with jquery
+        <br><br>
+        Under the hood, this web app has cypress<br>
+        logic for automation tests. These include<br>
+        load tests, acesibility using axe-core,<br>
+        responsiveness tests... All in end to end (E2E) fashion<br>
+
+
+    <div class="container mt-5">
+        <h1>Bootstrap Cards Example</h1>
+        <div class="row mt-4">
+            <div class="col-md-4 mb-4">
+                <div class="card" id="cardBodyOne">
+                    <img src="<%= require('./images/grace_hopper.jpg') %>" class="card-img-top" alt="example image">
+                    <div class="card-body" >
+                        <h5 class="card-title">Card 1</h5>
+                        <p class="card-text">Go see</p>
+                        <a href="secondary.html" class="btn btn-light" id="link">Visit API</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" id="cardBodyTwo">
+                    <img src="<%= require('./images/grace_hopper.jpg') %>" class="card-img-top" alt="example image">
+                    <div class="card-body">
+                        <h5 class="card-title">Card 2</h5>
+                        <p class="card-text">Go see API</p>
+                        <a href="secondary.html" class="btn btn-light" id="link">Visit the page</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" id="cardBodyThree">
+                    <img src="<%= require('./images/grace_hopper.jpg') %>" class="card-img-top" alt="example image">
+                    <div class="card-body">
+                        <h5 class="card-title">card 3</h5>
+                        <p class="card-text">Go see</p>
+                        <a href="secondary.html" class="btn btn-light" id="link">Check the Api</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <hr>
+ 
+    </div>
+    <h2>Write down a list</h2>
+    <p>Make a list of whatever you want</p>
+
+    <input type="text" id="taskInput" placeholder="Add a new task">
+    <button id="addTask">Add Task</button>
+
+    <ul id="taskList">
+        
+    </ul>
+    <button id="eraseAll">Erase Tasks</button>
+    <a href="secondary.html"><button type="button" class="btn btn-light" id="link">Go see the api page</button></a>
+    <script src="/dist/main.bundle.js"></script>
+    <script src="/dist/secondary.bundle.js"></script>
+    
+</body>
